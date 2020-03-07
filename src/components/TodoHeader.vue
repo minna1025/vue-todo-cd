@@ -1,5 +1,5 @@
 <template>
-  <h1 class="title">Todo App</h1>
+  <h1 class="title">PWA 할 일 관리 앱</h1>
 </template>
 
 <script>
